@@ -158,8 +158,97 @@ Il existe plusieurs types d'analyses descriptives, les plus courants étants :
 
 ### **1.2 ``L'intelligence artificelle dans différents domaines``** 
 
-#### **A** *La santé* 
-#### **B** *La finance* 
-#### **C** *La recherche* 
+#### **A ``La santé`` :**
+
+L'**intelligence artificielle dans la santé** est l'utilisation d'algorithmes et de logiciels pour s'approcher de la cognition humaine dans l'analyse de données médicales complexes. Plus précisément, l'IA dans ce domaine consiste en la **capacité des algorithmes informatiques à tirer des conclusions sans intervention humaine directe**.
+
+=> L'objectif principal des applicaiton des IA dans le domaine dela santé est d'**analyser les relations entre, d'une part, la prévention ou les traitements et, d'autre part, l'état de santé des patients**.
+
+Les programmes d'intelligence artificielle on été développés et appliqués à des pratiques telles que : 
+
+* Le processus de **diagnostique**.
+* L'élaboration d'un **protocole de traitement**.
+* Le **développement de médicaments**.
+* La **médecine personnalisée**.
+* Les **soins** et le **suivi** des patients.
+
+On peut les retrouver dans les domaines suivants : 
+
+* **Radiologie**.
+* **Psychiatrie**.
+* **Cancérologie**.
+* **Télésanté**.
+* **Maladies chroniques et éducation thérapeutique**.
+* **Indusrtrie**.
+
+
+Bien que la recherche sur l'utilisation de l'IA dans les soins de santé tend à démontrer son efficacité dans l'*amélioration des résultats** pour le patient, son utilisation peut néanmoins introduire **plusieurs nouveaux types de problématiques** pour les patients et les fournisseurs de soins de santé, comme les [**biais algorithmiques**](https://fr.wikipedia.org/wiki/Biais_algorithmique) (Fait que le résultat d'un algorithme ne soit pas neutre, loyal ou équitable que ce soit de manière inconsciente ou délibérée), les question liées aux ordoannances de "ne pas réanimer", et d'autres questions de moralité des machines.
+Ces défis posent la question d'un potentiel **besoin de réglementation**.
+
+Depuis le début des années 2020, les **usages de l'IA et de l'apprentissge automatique** sont en pleinne expansion dans la pluspart des champs de la santé.
+Cependant il faut s'attendre à des **dilemmes et défis éthiques complexes ou imprévus** sur les questions de **partialité**, de **protection des données et de la vie privée**, de l'**anonymat**, du **consentement éclairé**, de la **confidentialité et de la sécurité**, du **manque de transparence et d'explicabilité** ainsi que des **impacts potentiels sur les relations médecin-patient**...
+
+Des **biais ([raciaux](https://www.emerald.com/insight/content/doi/10.1108/JICES-06-2018-0056/full/html) et [autres](https://aiej.org/aiej/article/view/1)) à l'empathie en passant par la compassion, l'IA suscite de **nombrux débats philosophiques, éthiques et moraux**.
+
+Les **problèmes éthiques** de l'IA en général se croisent avec les **quatre piliers de l'héthique médicale** :
+
+* L'**autonomie**.
+* La **justice**.
+* La **bienfaisance**.
+* La **non-malfaisance**.
+
+(ref : [Wikipedia](https://fr.wikipedia.org/wiki/Intelligence_artificielle_dans_la_sant%C3%A9))
+
+#### **B ``La finance`` :**
+
+L'**intelligence artificielle appliquée à la finance** consiste en l'utilisation de technologies, notamment d'algorithmes avancés et de machine learning, pour **analyser les données, automatiser les tâches et améliorer la prise de décision dans le secteur des services financiers**.
+
+Il existe plusieurs **domaines d'application de l'IA dans le secteur financier** tel que : 
+
+* **Trading algorithmique**.
+* **Automatisation et efficacité**.
+* **Avantage concurrentiel**.
+* **Conformité**.
+* **Evaluation du crédit**.
+* **Réduction des coûts**.
+* **Service client**.
+* **Analyse des données**.
+* **Détection des fraudes**.
+* **Traitement des prêts**.
+* **Finances personnelles**.
+* **Gestion de portefeuilles**.
+* **Analyse prédictive**.
+* **Gestion des risques**.
+* **Analyse des sentiments**.
+
+Les **principaux acteurs de l'IA dans la finance** sont : 
+
+* **Des auditeurs et équipes de contrôle internes.**
+* **Des directeurs des systèmes d'information (DSI) et des directeurs techniques**.
+* **Des clients**.
+* **Des développeurs**.
+* **Des responsables de l'éhtique et de la diversité**.
+* **Des cadres**.
+* **Des organismes financiers**.
+* **Des équipes juridiques**.
+* **Des équipes de gesition du risque**.
+
+Dans le **cadre de la finance**, l'IA nécessite une **surveillance pour garentir une utilisation appropriée et un risque minimal**.
+Une **gouvernance proactive** peut favoriser une **utilisation responsable**, **éthique** et **transparente** de l'IA, ce qui est essentiel lorsque les institutions financières traitents de **grandes quantités de données sensibles**.
+
+(ref : [IBM](https://www.ibm.com/fr-fr/topics/artificial-intelligence-finance))
+
+#### **C ``La recherche`` :**
+
+L'**IA à considérablement transformée la recherche scientifique**.
+
+Avec ses **capacités avancées en matière de traitement des données, d'apprentissage automatique et d'analyse prédictives**, l'IA offre des opportunités sans précédent pour **accélérer les découvertes scientifiques**.
+
+Des domaines tels que la **biologie**, la **physique**, la **chimie** et bien d'autres bénéficient des avantages de l'IA. Cela permet aux chercheurs d'**explorer des questions coplexes** et de **résoudre des problèmes auparavant insolubles**.
+
+Cette avancée technologique prometteuse ouvre de **nouvelles perspectives** passionnantes pour l'avenir de la recherche scientifique et offre des possiblitiés de progès révolutionnaires.
+
+(ref : [lebigdata](https://www.lebigdata.fr/ia-recherche-scientifique))
+
 
 
