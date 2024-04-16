@@ -16,7 +16,7 @@
 ##### **B** *La finance* 
 ##### **C** *La recherche* 
 
-### **2 Présentation du projet **
+### **2 Présentation du projet**
 #### **2.1 Contexte**
 #### **2.2 Données utilisées** 
 
