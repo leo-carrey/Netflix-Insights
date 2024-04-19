@@ -4,6 +4,9 @@
 
 - [**Projet Netflix-insights**](#projet-netflix-insights)
   - [Sommaire](#sommaire)
+  - [**2** Présentation du projet](#2-présentation-du-projet)
+    - [**2.1** Contexte](#21-contexte)
+    - [\***2.2** Librairies utilisées](#22-librairies-utilisées)
   - [**1** Veille sur l'intelligence artificielle](#1-veille-sur-lintelligence-artificielle)
     - [**1.1** Définitions](#11-définitions)
       - [**A** Intelligence artificielle](#a-intelligence-artificielle)
@@ -14,13 +17,20 @@
       - [**A** La santé :](#a-la-santé-)
       - [**B** La finance :](#b-la-finance-)
       - [**C** La recherche :](#c-la-recherche-)
-  - [**2** Présentation du projet](#2-présentation-du-projet)
-    - [**2.1** Contexte](#21-contexte)
-    - [**2.2** Données utilisées](#22-données-utilisées)
   - [**3** Analyse des données Netflix de septembre 2021](#3-analyse-des-données-netflix-de-septembre-2021)
-    - [**3.1** Observations](#31-observations)
-    - [**3.2** Conclusions](#32-conclusions)
+    - [**3.1** Données utilisées](#31-données-utilisées)
+    - [**3.2** Observations](#32-observations)
+    - [**3.3** Conclusions](#33-conclusions)
+  - [**4** Ressource](#4-ressource)
 
+
+## **2** Présentation du projet
+### **2.1** Contexte
+- Image netflix
+- Texte explicatif
+- Lien vers cahier des charges
+### ***2.2** Librairies utilisées
+- lister librairies
 
 ## **1** Veille sur l'intelligence artificielle
 
@@ -247,12 +257,15 @@ Cette avancée technologique prometteuse ouvre de **nouvelles perspectives** pas
 (ref : [lebigdata](https://www.lebigdata.fr/ia-recherche-scientifique))
 
 
-## **2** Présentation du projet
-### **2.1** Contexte
-### **2.2** Données utilisées
-
 ## **3** Analyse des données Netflix de septembre 2021
 
-### **3.1** Observations
-
-### **3.2** Conclusions
+### **3.1** Données utilisées
+- Nom du csv
+- Nombre de lignes
+- Colonnes avec ce qu'elles représentent
+### **3.2** Observations
+- ...?
+### **3.3** Conclusions
+- Reprendre la conclusion du notebook
+## **4** Ressource
+- ...?
