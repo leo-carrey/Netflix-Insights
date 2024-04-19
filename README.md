@@ -1,36 +1,32 @@
 # **Projet Netflix-insights**
 
-## ``Sommaire``
+## Sommaire
 
-### [**1 Veille sur l'intelligence artificielle**](#1-veille-sur-lintelligence-artificielle-1)
+- [**Projet Netflix-insights**](#projet-netflix-insights)
+  - [Sommaire](#sommaire)
+  - [**1** Veille sur l'intelligence artificielle](#1-veille-sur-lintelligence-artificielle)
+    - [**1.1** Définitions](#11-définitions)
+      - [**A** Intelligence artificielle](#a-intelligence-artificielle)
+      - [**B** Apprentissage automatique :](#b-apprentissage-automatique-)
+      - [**C** Pré-traitement des données :](#c-pré-traitement-des-données-)
+      - [**D** Analyse descriptive des données :](#d-analyse-descriptive-des-données-)
+    - [**1.2** L'intelligence artificelle dans différents domaines](#12-lintelligence-artificelle-dans-différents-domaines)
+      - [**A** La santé :](#a-la-santé-)
+      - [**B** La finance :](#b-la-finance-)
+      - [**C** La recherche :](#c-la-recherche-)
+  - [**2** Présentation du projet](#2-présentation-du-projet)
+    - [**2.1** Contexte](#21-contexte)
+    - [**2.2** Données utilisées](#22-données-utilisées)
+  - [**3** Analyse des données Netflix de septembre 2021](#3-analyse-des-données-netflix-de-septembre-2021)
+    - [**3.1** Observations](#31-observations)
+    - [**3.2** Conclusions](#32-conclusions)
 
-#### [**1.1 Définitions**](#11-dc3a9finitions-1) 
 
-##### [**A** *Intelligence artificielle*](#a-intelligence-artificielle-1)
-##### [**B** *Apprentissage automatique*](#b-apprentissage-automatique-1)
-##### [**C** *Pré-traitement des données*](#c-prc3a9-traitement-des-donnc3a9es-1)
-##### [**D** *Analyse descriptive des données*](#d-analyse-descriptive-des-donnc3a9es-1)
+## **1** Veille sur l'intelligence artificielle
 
-#### [**1.2 L'intelligence artificelle dans différents domaines** ](#12-lintelligence-artificelle-dans-diffc3a9rents-domaines-1)
-##### **A** *La santé* 
-##### **B** *La finance* 
-##### **C** *La recherche* 
+### **1.1** Définitions
 
-### **2 Présentation du projet**
-#### **2.1 Contexte**
-#### **2.2 Données utilisées** 
-
-### **3 Analyse des données Netflix de septembre 2021**
-
-#### **3.1 Observations**
-
-#### **3.2 Conclusions**
-
-## **1 ``Veille sur l'intelligence artificielle``**
-
-### **1.1 ``Définitions``** 
-
-#### **A ``Intelligence artificielle`` :**
+#### **A** Intelligence artificielle
 
 * ``Intelligence`` : 
 
@@ -78,7 +74,7 @@ Pour l'**OCDE** (_Organisation de coopération et de développement économique_
 
 Il existe une confusion dans le débat publique entre **intelligence artificielle**, **aprentissage automatique** (_machine learning_) et **aprentissage profond** (_deep learning_). Pourtant ces notions ne sont pas équivalente, mais imbriquées. L'IA englobe l'aprentissage automatique, qui lui-même englobe l'aprentissage profond. (ref: [Intelligence artificielle, machine learning, deep learning : kézako ?](https://www.ledigitalab.com/2017/10/02/intelligence-artificielle-machine-learning-deep-learning-kezako/))
 
-#### **B ``Apprentissage automatique`` :** 
+#### **B** Apprentissage automatique :
 
 L'**apprentissage automatique** (_machine learning_), **apprentissage artificiel** ou **apprentissage statistique** est un champ d'étude de l'**intelligence artificiell** qui se fonde sur **des approches mathématiques et statistiques** pour donner aux ordinateurs la **capacité d'apprendre à partir de données**, c'est à dire d'**améliorer leurs performances à résoudre des tâches sans être explicitement programmées pour chacune.**
 
@@ -118,7 +114,7 @@ En fonction des informarmations disponibles durant la phase d'apprentissage, l'a
 L'*apprentissage automatique** peut être appliqué à **différents types de données**, tels que des **graphes**, des **arbres**, des **courbes**, ou plus simplement des **vecteurs de caractéristiques**, pouvant être des variables **qualitatives** ou **quantitatives**, **continues** ou **discrètes**. 
 
 
-#### **C ``Pré-traitement des données`` :**
+#### **C** Pré-traitement des données :
 
 Le **prétraitement des données** peut faire référence à la **manipulation** ou à la **suppression** de données **avant leur utilisation** afin d'**assurer** ou d'**améliorer** les performances, il s'agit d'une étape important du **processus d'exploration de données** et d'une des phases les plus importantes d'un projet d'**apprentissage automatique**.
 
@@ -134,7 +130,7 @@ Le déroulement du **prétraitement des données** peut être décrit par les t�
 (ref : [https://fr.abcdef.wiki/wiki/Data_pre-processing])
 
 
-#### **D ``Analyse descriptive des données`` :**
+#### **D** Analyse descriptive des données :
 
 L'**analyse descriptive** est le **processus de transformation des données en informations**. 
 
@@ -156,9 +152,9 @@ Il existe plusieurs types d'analyses descriptives, les plus courants étants :
 
 (ref : [Analyse descriptive](https://timetodata.com/definitions/analyse-descriptive/))
 
-### **1.2 ``L'intelligence artificelle dans différents domaines``** 
+### **1.2** L'intelligence artificelle dans différents domaines 
 
-#### **A ``La santé`` :**
+#### **A** La santé :
 
 L'**intelligence artificielle dans la santé** est l'utilisation d'algorithmes et de logiciels pour s'approcher de la cognition humaine dans l'analyse de données médicales complexes. Plus précisément, l'IA dans ce domaine consiste en la **capacité des algorithmes informatiques à tirer des conclusions sans intervention humaine directe**.
 
@@ -199,7 +195,7 @@ Les **problèmes éthiques** de l'IA en général se croisent avec les **quatre 
 
 (ref : [Wikipedia](https://fr.wikipedia.org/wiki/Intelligence_artificielle_dans_la_sant%C3%A9))
 
-#### **B ``La finance`` :**
+#### **B** La finance :
 
 L'**intelligence artificielle appliquée à la finance** consiste en l'utilisation de technologies, notamment d'algorithmes avancés et de machine learning, pour **analyser les données, automatiser les tâches et améliorer la prise de décision dans le secteur des services financiers**.
 
@@ -238,7 +234,7 @@ Une **gouvernance proactive** peut favoriser une **utilisation responsable**, **
 
 (ref : [IBM](https://www.ibm.com/fr-fr/topics/artificial-intelligence-finance))
 
-#### **C ``La recherche`` :**
+#### **C** La recherche :
 
 L'**IA à considérablement transformée la recherche scientifique**.
 
@@ -251,4 +247,12 @@ Cette avancée technologique prometteuse ouvre de **nouvelles perspectives** pas
 (ref : [lebigdata](https://www.lebigdata.fr/ia-recherche-scientifique))
 
 
+## **2** Présentation du projet
+### **2.1** Contexte
+### **2.2** Données utilisées
 
+## **3** Analyse des données Netflix de septembre 2021
+
+### **3.1** Observations
+
+### **3.2** Conclusions
