@@ -29,8 +29,14 @@
 - Image netflix
 - Texte explicatif
 - Lien vers cahier des charges
+
 ### ***2.2** Librairies utilisées
-- lister librairies
+- Pandas
+- Matplotlib
+- Numpy (pour le NaN)
+- Missingno
+- Wordcloud
+- NLTK
 
 ## **1** Veille sur l'intelligence artificielle
 
@@ -260,9 +266,38 @@ Cette avancée technologique prometteuse ouvre de **nouvelles perspectives** pas
 ## **3** Analyse des données Netflix de septembre 2021
 
 ### **3.1** Données utilisées
-- Nom du csv
-- Nombre de lignes
-- Colonnes avec ce qu'elles représentent
+- Nom du fichier : `netflix_titles.csv`
+- **8807** observations
+- **Colonnes** :
+  - `show_id` : Identifiant unique - str
+  - `type` : Type d'oeuvre - str
+    - **Movie** : Film
+    - **TV Show** : Série
+  - `title` : Titre de l'oeuvre - str
+  - `director` : Rélisateur(s) - str
+  - `cast` : Acteurs principal(aux) - str
+  - `country` : Pays ayant produit l'oeuvre - str
+  - `date_added` : Date d'ajout au catalogue Netflix - DateTime
+  - `release_year` : Date de sortie de l'oeuvre - float(pour ne pas qu'il y ai d'erreur avec les valeurs manquantes)
+  - `rating` : Classification d'age addociée a l'oeuvre - str
+    - **PG-13** : Parental guidance suggérée - Certaines images peuvent ne pas convenir aux enfants de moins de 13 ans.
+    - **TV-MA** : Mature Audience - Ce programme est destiné à un public adulte et peut ne pas convenir aux spectateurs de moins de 17 ans. Il peut contenir une forte violence, des scènes de sexe explicites, un langage grossier et d'autres contenus matures.
+    - **PG** : Parental guidance suggérée - Certaines images peuvent ne pas convenir aux enfants.
+    - **TV-14** : Parents fortement mis en garde - Ce programme contient du matériel qui peut ne pas être adapté aux enfants de moins de 14 ans, y compris une violence intense, des situations sexuelles, des dialogues suggestifs, un langage grossier et des thèmes sexuels et/ou effrayants.
+    - **TV-PG** : Parental guidance suggérée - Ce programme peut contenir du matériel qui ne convient pas aux jeunes enfants.
+    - **TV-Y** : Tous les enfants - Ce programme est destiné aux enfants de tous âges.
+    - **TV-Y7** : Convient aux enfants de 7 ans et plus - Ce programme est conçu pour les enfants âgés de 7 ans et plus. Il peut contenir une action fantastique ou un langage doux et/ou des thèmes.
+    - **R** : Restricted - Les moins de 17 ans doivent être accompagnés d'un adulte.
+    - **TV-G** : Convient à tous les âges - Ce programme est destiné à tous les publics.
+    - **G** : General Audiences - Tous les âges admis. Le contenu ne contient rien qui ne dépasse le niveau de PG.
+    - **NC-17** : No Children Under 17 - Strictement réservé aux adultes.
+    - **NR** : Not Rated - Non classé.
+    - **TV-Y7-FV** : Convient aux enfants de 7 ans et plus avec avertissement parental - Ce programme est conçu pour les enfants âgés de 7 ans et plus et peut contenir une action fantastique ou un langage doux et/ou des thèmes.
+    - **UR** : Unrated - Non classé.
+  - `duration` : Durée de l'oeuvre (en minutes pour les films, en saison pour les séries)
+  - `listed_in` : Catégorie(s) ou genre(s) au(x) quel(s) l'oeuvre appartient
+  - `description` : Résumé ou description de l'oeuvre
+
 ### **3.2** Observations
 - ...?
 ### **3.3** Conclusions
