@@ -6,22 +6,19 @@
 
 - [**Projet Netflix-insights**](#projet-netflix-insights)
   - [Sommaire](#sommaire)
-  - [**2** Présentation du projet](#2-présentation-du-projet)
-    - [**2.1** L'équipe](#21-léquipe)
-      - [Christian Aucane](#christian-aucane)
-      - [Pierre Mazard](#pierre-mazard)
-      - [Léo Carrey](#léo-carrey)
-    - [**2.2** Contexte](#22-contexte)
-      - [**2.2.1** Veille technologique](#221-veille-technologique)
-      - [**2.2.2** Analyse exploratoire](#222-analyse-exploratoire)
-    - [**2.3** Librairies utilisées](#23-librairies-utilisées)
-  - [**1** Veille sur l'intelligence artificielle](#1-veille-sur-lintelligence-artificielle)
-    - [**1.1** Définitions](#11-définitions)
+  - [**1** Présentation du projet](#1-présentation-du-projet)
+    - [**1.1** L'équipe](#11-léquipe)
+    - [**1.2** Contexte](#12-contexte)
+      - [**1.2.1** Veille technologique](#121-veille-technologique)
+      - [**1.2.2** Analyse exploratoire](#122-analyse-exploratoire)
+    - [**1.3** Librairies utilisées](#13-librairies-utilisées)
+  - [**2** Veille sur l'intelligence artificielle](#2-veille-sur-lintelligence-artificielle)
+    - [**2.1** Définitions](#21-définitions)
       - [**A** Intelligence artificielle](#a-intelligence-artificielle)
       - [**B** Apprentissage automatique :](#b-apprentissage-automatique-)
       - [**C** Pré-traitement des données :](#c-pré-traitement-des-données-)
       - [**D** Analyse descriptive des données :](#d-analyse-descriptive-des-données-)
-    - [**1.2** L'intelligence artificelle dans différents domaines](#12-lintelligence-artificelle-dans-différents-domaines)
+    - [**2.2** L'intelligence artificelle dans différents domaines](#22-lintelligence-artificelle-dans-différents-domaines)
       - [**A** La santé :](#a-la-santé-)
       - [**B** La finance :](#b-la-finance-)
       - [**C** La recherche :](#c-la-recherche-)
@@ -32,35 +29,35 @@
   - [**4** Ressource](#4-ressource)
 
 
-## **2** Présentation du projet
-### **2.1** L'équipe
-#### Christian Aucane
+## **1** Présentation du projet
+### **1.1** L'équipe
+- Christian Aucane
 <a href="https://github.com/christian-aucane">
-<img src="assets/imgs/logos/github.png" alt="Logo Github" width="50">
+<img src="assets/imgs/logos/github.png" alt="Logo Github" height="20">
 </a>
 <a href="https://www.linkedin.com/in/christian-aucane">
-<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" width="50">
+<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" height="20">
 </a>
 
-#### Pierre Mazard
+- Pierre Mazard
 <a href="https://github.com/pierre-mazard">
-<img src="assets/imgs/logos/github.png" alt="Logo Github" width="50">
+<img src="assets/imgs/logos/github.png" alt="Logo Github" height="20">
 </a>
 <a href="https://www.linkedin.com/in/pierre-mazard/">
-<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" width="50">
+<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" height="20">
 </a>
 
-#### Léo Carrey
+- Léo Carrey
 <a href="https://github.com/leo-carrey/">
-<img src="assets/imgs/logos/github.png" alt="Logo Github" width="50">
+<img src="assets/imgs/logos/github.png" alt="Logo Github" height="20">
 </a>
 <a href="https://www.linkedin.com/in/leo-carrey/">
-<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" width="50">
+<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" height="20">
 </a>
 
 
-### **2.2** Contexte
-#### **2.2.1** Veille technologique
+### **1.2** Contexte
+#### **1.2.1** Veille technologique
 Voulant pousser notre apprentissage de l’intelligence artificielle, nous réalisons
 une veille sur les différents aspects suivants :
 - L’intelligence artificielle
@@ -73,7 +70,7 @@ Nous expliquons également ce qu'il est possible de faire grâce a l'Intelligenc
 - La finance
 - La recherche
 
-#### **2.2.2** Analyse exploratoire
+#### **1.2.2** Analyse exploratoire
 Netflix, géant mondial du divertissement, a transformé la façon dont nous
 consommons les films et les émissions de télévision. Depuis sa création en
 1997 en tant que service d'envoi de DVD par courrier, Netflix n'a cessé
@@ -88,7 +85,7 @@ Nous posons les premières fondations de celui-ci en répondant a une série de 
 
 [**Lien vers les consignes**](https://drive.google.com/file/d/1blsg2xF8ND0hcU4PZ7d7o_Yakhf1Spd6/view?usp=drive_link)
 
-### **2.3** Librairies utilisées
+### **1.3** Librairies utilisées
 - <img src="assets/imgs/libs/pandas.png" width="200">
 - <img src="assets/imgs/libs/matplotlib.svg" width="200">
 - <img src="assets/imgs/libs/numpy.svg" width="200"> (pour NaN - **N**ot **a** **N**umber)
@@ -96,10 +93,10 @@ Nous posons les premières fondations de celui-ci en répondant a une série de 
 - NLTK
 - Wordcloud
 
-## **1** Veille sur l'intelligence artificielle
+## **2** Veille sur l'intelligence artificielle
 <img src="assets/imgs/artificial_intelligence.png">
 
-### **1.1** Définitions
+### **2.1** Définitions
 
 #### **A** Intelligence artificielle
 
@@ -227,7 +224,7 @@ Il existe plusieurs types d'analyses descriptives, les plus courants étants :
 
 (ref : [Analyse descriptive](https://timetodata.com/definitions/analyse-descriptive/))
 
-### **1.2** L'intelligence artificelle dans différents domaines 
+### **2.2** L'intelligence artificelle dans différents domaines 
 
 #### **A** La santé :
 
