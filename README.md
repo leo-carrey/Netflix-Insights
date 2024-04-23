@@ -1,12 +1,20 @@
 # **Projet Netflix-insights**
 
+<img src="assets/imgs/netflix.jpg">
+
 ## Sommaire
 
 - [**Projet Netflix-insights**](#projet-netflix-insights)
   - [Sommaire](#sommaire)
   - [**2** Présentation du projet](#2-présentation-du-projet)
-    - [**2.1** Contexte](#21-contexte)
-    - [\***2.2** Librairies utilisées](#22-librairies-utilisées)
+    - [**2.1** L'équipe](#21-léquipe)
+      - [Christian Aucane](#christian-aucane)
+      - [Pierre Mazard](#pierre-mazard)
+      - [Léo Carrey](#léo-carrey)
+    - [**2.2** Contexte](#22-contexte)
+      - [**2.2.1** Veille technologique](#221-veille-technologique)
+      - [**2.2.2** Analyse exploratoire](#222-analyse-exploratoire)
+    - [**2.3** Librairies utilisées](#23-librairies-utilisées)
   - [**1** Veille sur l'intelligence artificielle](#1-veille-sur-lintelligence-artificielle)
     - [**1.1** Définitions](#11-définitions)
       - [**A** Intelligence artificielle](#a-intelligence-artificielle)
@@ -25,15 +33,65 @@
 
 
 ## **2** Présentation du projet
-### **2.1** Contexte
-- Image netflix
-- Texte explicatif
-- Lien vers cahier des charges
+### **2.1** L'équipe
+#### Christian Aucane
+<a href="https://github.com/christian-aucane">
+<img src="assets/imgs/logos/github.png" alt="Logo Github" width="50">
+</a>
+<a href="https://www.linkedin.com/in/christian-aucane">
+<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" width="50">
+</a>
 
-### ***2.2** Librairies utilisées
-- Pandas
-- Matplotlib
-- Numpy (pour le NaN)
+#### Pierre Mazard
+<a href="https://github.com/pierre-mazard">
+<img src="assets/imgs/logos/github.png" alt="Logo Github" width="50">
+</a>
+<a href="https://www.linkedin.com/in/pierre-mazard/">
+<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" width="50">
+</a>
+
+#### Léo Carrey
+<a href="https://github.com/leo-carrey/">
+<img src="assets/imgs/logos/github.png" alt="Logo Github" width="50">
+</a>
+<a href="https://www.linkedin.com/in/leo-carrey/">
+<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" width="50">
+</a>
+
+
+### **2.2** Contexte
+#### **2.2.1** Veille technologique
+Voulant pousser notre apprentissage de l’intelligence artificielle, nous réalisons
+une veille sur les différents aspects suivants :
+- L’intelligence artificielle
+- Le Machine Learning (ou l’apprentissage automatique)
+- Le pré-traitement des données
+- L’analyse descriptive des données
+
+Nous expliquons également ce qu'il est possible de faire grâce a l'Intelligence Artificielle dans les domaines suivants :
+- La santé
+- La finance
+- La recherche
+
+#### **2.2.2** Analyse exploratoire
+Netflix, géant mondial du divertissement, a transformé la façon dont nous
+consommons les films et les émissions de télévision. Depuis sa création en
+1997 en tant que service d'envoi de DVD par courrier, Netflix n'a cessé
+d'évoluer, s'adaptant aux avancées technologiques et devenant finalement
+la force dominante de l'industrie du streaming. Avec plus de 200 millions
+d'abonnés dans le monde, Netflix offre une vaste bibliothèque de contenus
+et propose des recommandations personnalisées, captivant les
+spectateurs avec une expérience de streaming transparente.
+
+Dans le cadre de notre formation en Bachelor IT, spécialité Intelligence Artificielle, nous nous lançons dans une étape importante de notre apprentissage, l’analyse de données !
+Nous posons les premières fondations de celui-ci en répondant a une série de questions.
+
+[**Lien vers les consignes**](https://drive.google.com/file/d/1blsg2xF8ND0hcU4PZ7d7o_Yakhf1Spd6/view?usp=drive_link)
+
+### **2.3** Librairies utilisées
+- <img src="assets/imgs/libs/pandas.png" width="200">
+- <img src="assets/imgs/libs/numpy.svg" width="200">
+- <img src="assets/imgs/libs/matplotlib.svg" width="200">
 - Missingno
 - Wordcloud
 - NLTK
