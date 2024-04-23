@@ -90,11 +90,11 @@ Nous posons les premières fondations de celui-ci en répondant a une série de 
 
 ### **2.3** Librairies utilisées
 - <img src="assets/imgs/libs/pandas.png" width="200">
-- <img src="assets/imgs/libs/numpy.svg" width="200">
 - <img src="assets/imgs/libs/matplotlib.svg" width="200">
+- <img src="assets/imgs/libs/numpy.svg" width="200"> (pour NaN - **N**ot **a** **N**umber)
 - Missingno
-- Wordcloud
 - NLTK
+- Wordcloud
 
 ## **1** Veille sur l'intelligence artificielle
 <img src="assets/imgs/artificial_intelligence.png">
