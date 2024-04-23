@@ -97,6 +97,7 @@ Nous posons les premières fondations de celui-ci en répondant a une série de 
 - NLTK
 
 ## **1** Veille sur l'intelligence artificielle
+<img src="assets/imgs/artificial_intelligence.png">
 
 ### **1.1** Définitions
 
@@ -322,6 +323,7 @@ Cette avancée technologique prometteuse ouvre de **nouvelles perspectives** pas
 
 
 ## **3** Analyse des données Netflix de septembre 2021
+<img src="assets/imgs/eda.webp" alt="Analyse exploratoire des données">
 
 ### **3.1** Données utilisées
 - Nom du fichier : `netflix_titles.csv`
