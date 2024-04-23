@@ -1,12 +1,20 @@
 # **Projet Netflix-insights**
 
+<img src="assets/imgs/netflix.jpg">
+
 ## Sommaire
 
 - [**Projet Netflix-insights**](#projet-netflix-insights)
   - [Sommaire](#sommaire)
   - [**2** Présentation du projet](#2-présentation-du-projet)
-    - [**2.1** Contexte](#21-contexte)
-    - [\***2.2** Librairies utilisées](#22-librairies-utilisées)
+    - [**2.1** L'équipe](#21-léquipe)
+      - [Christian Aucane](#christian-aucane)
+      - [Pierre Mazard](#pierre-mazard)
+      - [Léo Carrey](#léo-carrey)
+    - [**2.2** Contexte](#22-contexte)
+      - [**2.2.1** Veille technologique](#221-veille-technologique)
+      - [**2.2.2** Analyse exploratoire](#222-analyse-exploratoire)
+    - [**2.3** Librairies utilisées](#23-librairies-utilisées)
   - [**1** Veille sur l'intelligence artificielle](#1-veille-sur-lintelligence-artificielle)
     - [**1.1** Définitions](#11-définitions)
       - [**A** Intelligence artificielle](#a-intelligence-artificielle)
@@ -25,15 +33,65 @@
 
 
 ## **2** Présentation du projet
-### **2.1** Contexte
-- Image netflix
-- Texte explicatif
-- Lien vers cahier des charges
+### **2.1** L'équipe
+#### Christian Aucane
+<a href="https://github.com/christian-aucane">
+<img src="assets/imgs/logos/github.png" alt="Logo Github" width="50">
+</a>
+<a href="https://www.linkedin.com/in/christian-aucane">
+<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" width="50">
+</a>
 
-### ***2.2** Librairies utilisées
-- Pandas
-- Matplotlib
-- Numpy (pour le NaN)
+#### Pierre Mazard
+<a href="https://github.com/pierre-mazard">
+<img src="assets/imgs/logos/github.png" alt="Logo Github" width="50">
+</a>
+<a href="https://www.linkedin.com/in/pierre-mazard/">
+<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" width="50">
+</a>
+
+#### Léo Carrey
+<a href="https://github.com/leo-carrey/">
+<img src="assets/imgs/logos/github.png" alt="Logo Github" width="50">
+</a>
+<a href="https://www.linkedin.com/in/leo-carrey/">
+<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" width="50">
+</a>
+
+
+### **2.2** Contexte
+#### **2.2.1** Veille technologique
+Voulant pousser notre apprentissage de l’intelligence artificielle, nous réalisons
+une veille sur les différents aspects suivants :
+- L’intelligence artificielle
+- Le Machine Learning (ou l’apprentissage automatique)
+- Le pré-traitement des données
+- L’analyse descriptive des données
+
+Nous expliquons également ce qu'il est possible de faire grâce a l'Intelligence Artificielle dans les domaines suivants :
+- La santé
+- La finance
+- La recherche
+
+#### **2.2.2** Analyse exploratoire
+Netflix, géant mondial du divertissement, a transformé la façon dont nous
+consommons les films et les émissions de télévision. Depuis sa création en
+1997 en tant que service d'envoi de DVD par courrier, Netflix n'a cessé
+d'évoluer, s'adaptant aux avancées technologiques et devenant finalement
+la force dominante de l'industrie du streaming. Avec plus de 200 millions
+d'abonnés dans le monde, Netflix offre une vaste bibliothèque de contenus
+et propose des recommandations personnalisées, captivant les
+spectateurs avec une expérience de streaming transparente.
+
+Dans le cadre de notre formation en Bachelor IT, spécialité Intelligence Artificielle, nous nous lançons dans une étape importante de notre apprentissage, l’analyse de données !
+Nous posons les premières fondations de celui-ci en répondant a une série de questions.
+
+[**Lien vers les consignes**](https://drive.google.com/file/d/1blsg2xF8ND0hcU4PZ7d7o_Yakhf1Spd6/view?usp=drive_link)
+
+### **2.3** Librairies utilisées
+- <img src="assets/imgs/libs/pandas.png" width="200">
+- <img src="assets/imgs/libs/numpy.svg" width="200">
+- <img src="assets/imgs/libs/matplotlib.svg" width="200">
 - Missingno
 - Wordcloud
 - NLTK
@@ -299,8 +357,39 @@ Cette avancée technologique prometteuse ouvre de **nouvelles perspectives** pas
   - `description` : Résumé ou description de l'oeuvre
 
 ### **3.2** Observations
-- ...?
+- La **répartition du type d'œuvres** révèle qu'il y a **environ deux fois plus de films que de séries** dans le dataset.
+- **Le graphique de répartition par pays** montre que **plus d'un tiers des films ont été produits aux États-Unis, suivi par l'Inde et le Royaume-Uni.** Plus de **50%** du contenu est **proposé par ces trois pays** et **plus d'un tiers** (36.84%) par les **Etats Unis**.
+- La **majorité des œuvres** ont été publiées vers les **années 2018/2019**, selon la répartition des années de sortie.
+- Concernant les **ratings** (classification du contenu en fonction du public), la **majorité des programmes proposés sur la plateforme sont en TV-MA**, un **contenu inapproprié pour les moins de 17 ans** en raison de violence et de langage grossier, suivi par **TV-14**, également **inapproprié pour les moins de 14 ans** pour les mêmes raisons. Ces deux catégories sont suivies par **TV-PG**, qui contient des éléments **inappropriés pour les jeunes enfants**, et le rating **R**, indiquant que les **moins de 17 ans doivent être accompagnés** d'un adulte. Cela signifie qu'au moins **75% du contenu de la plateforme est inapproprié pour un jeune public et pour les enfants.**
+- La **durée des films** est généralement comprise entre **75 et 125 minutes**, tandis que la **majorité des séries** semblent n'avoir qu'**une seule saison**.
+- Les **genres d'œuvres** les plus courants sont les films **internationaux, les drames et les comédies.**
+- La **série les plus longues** est **Grey's Anatomy** avec **17 saisons.**
+- Le **film le plus long** présent sur la plateforme est **Black Mirror: Bandersnatch** avec **plus de 300 minutes** (5 heures). Il s'agit en réalité d'un **film interractif** contenant plus de 5 heures de séquences filmées. Cependant, **un seul visionnage ne dure pas 5 heures** et la **durée de l'expérience dépend des choix faits** tout au long du film par le spectateur. La **durée moyenne d'une experience est d'une heure et demi.** Le film **Headspace : Unwind Your Mind** possède les même caractéristiques, il s'agit également d'un **film interractif**, expliquant sa longue durée. Si l'on considère ces deux premiers films comme n'étant pas des films "classiques", et qu'on décide de les placer dans une catégorie singulière "films interractifs", on peut alors conclure que **le film à la durée la plus longue** présent sur la plateforme en 2021 est **The School of Mischief**, film égyptien de 1973 d'une durée de **4h13.**
+- **Thierry Donard** et **Florent Bodin** sont les réalisateurs français les plus présents dans le dataset avec respectivement **5 oeuvres** pour le premier et **3 oeuvres** pour le second.
+- La **répartition des œuvres en fonction de leur date d'ajout** au catalogue montre un **pic de publications en 2019**. Ceci s'explique en partie car **Netflix a considérablement augmenté son budget de production et de distribution de contenu** original au cours de cette période.
+- Enfin, le **wordcloud des descriptions** met en évidence les mots **"life", "young", "new" et "family"**, suggérant des thèmes récurrents tels que la **vie, la jeunesse, les nouveautés et la famille** dans le contenu proposé.
+
 ### **3.3** Conclusions
-- Reprendre la conclusion du notebook
+Ces observations fournissent une vue d'ensemble complète du contenu disponible sur Netflix, mettant en lumière les tendances, les préférences des utilisateurs et les caractéristiques les plus courantes des œuvres présentes sur la plateforme. Il est également important de noter que la **majorité du contenu est inappropriée pour les enfants**, soulignant ainsi l'**importance de la supervision parentale** lors de l'utilisation de la plateforme par des enfants.
+
 ## **4** Ressource
-- ...?
+- [Dictionnaire académie française](https://www.dictionnaire-academie.fr/article/A9A2706)
+- [encyclopédie Larousse](https://www.larousse.fr/encyclopedie/divers/intelligence%20artificielle/187257)
+- [WHAT IS ARTIFICIAL INTELLIGENCE? - John McCarthy - 2004](https://www-formal.stanford.edu/jmc/whatisai.pdf)
+- [Computing Machinery and Intelligence](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf)
+- [Intelligence artificielle : une approche moderne](https://aima.cs.berkeley.edu/)
+- [Qu'est ce que l'intélligence artificelle](https://www.ibm.com/fr-fr/topics/artificial-intelligence)
+- [Avis no 2024-01 du 17 janvier 2024 pour mieux encadrer l’usage de l’intelligence artificielle, CSNP, 21 p.](https://csnp.fr/wp-content/uploads/2024/01/AVIS-N%C2%B02024-01-du-17-JANVIER-2024-pour-mieux-encadrer-lusage-de-lintelligence-artificielle-2.pdf)
+- [Intelligence artificielle, machine learning, deep learning : kézako ?](https://www.ledigitalab.com/2017/10/02/intelligence-artificielle-machine-learning-deep-learning-kezako/)
+- [Wikipédia - -Apprentissage automatique](https://fr.wikipedia.org/wiki/Apprentissage_automatique)
+- [Wikipédia - Apprentissage supervisé](https://fr.wikipedia.org/wiki/Apprentissage_supervis%C3%A9)
+- [Le blog de l'apprentissage automatique - qu'est-ce que la classification](https://medium.com/le-blog-de-lapprentissage-automatique/quest-ce-que-la-classification-43744b75f546)
+- [Wikipédia - Régression](https://fr.wikipedia.org/wiki/R%C3%A9gression_(statistiques))
+- [Wikipédia - Aprentissage par renforcement](https://fr.wikipedia.org/wiki/Apprentissage_par_renforcement)
+- [Wikipédia - Apprentissage non supervisé](https://fr.wikipedia.org/wiki/Apprentissage_non_supervis%C3%A9)
+- [Time to data - Analyse descriptive](https://timetodata.com/definitions/analyse-descriptive/)
+- [Wikipédia - Biais algorithmiques](https://fr.wikipedia.org/wiki/Biais_algorithmique)
+- [Wikipedia - Intelligence artificielle dans la santé](https://fr.wikipedia.org/wiki/Intelligence_artificielle_dans_la_sant%C3%A9)
+- [IBM - Qu’est-ce que l’intelligence artificielle appliquée à la finance ?](https://www.ibm.com/fr-fr/topics/artificial-intelligence-finance)
+- [lebigdata - Comment l’IA va bouleverser la recherche scientifique ?](https://www.lebigdata.fr/ia-recherche-scientifique)
+  
