@@ -31,29 +31,11 @@
 
 ## **1** Présentation du projet
 ### **1.1** L'équipe
-- Christian Aucane
-<a href="https://github.com/christian-aucane">
-<img src="assets/imgs/logos/github.png" alt="Logo Github" height="20">
-</a>
-<a href="https://www.linkedin.com/in/christian-aucane">
-<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" height="20">
-</a>
+- Christian Aucane <a href="https://github.com/christian-aucane"><img src="assets/imgs/logos/github.png" alt="Logo Github" height="20"></a> <a href="https://www.linkedin.com/in/christian-aucane"> <img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" height="20"> </a>
 
-- Pierre Mazard
-<a href="https://github.com/pierre-mazard">
-<img src="assets/imgs/logos/github.png" alt="Logo Github" height="20">
-</a>
-<a href="https://www.linkedin.com/in/pierre-mazard/">
-<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" height="20">
-</a>
+- Pierre Mazard <a href="https://github.com/pierre-mazard"><img src="assets/imgs/logos/github.png" alt="Logo Github" height="20"></a> <a href="https://www.linkedin.com/in/pierre-mazard/"><img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" height="20"></a>
 
-- Léo Carrey
-<a href="https://github.com/leo-carrey/">
-<img src="assets/imgs/logos/github.png" alt="Logo Github" height="20">
-</a>
-<a href="https://www.linkedin.com/in/leo-carrey/">
-<img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" height="20">
-</a>
+- Léo Carrey <a href="https://github.com/leo-carrey/"><img src="assets/imgs/logos/github.png" alt="Logo Github" height="20"></a> <a href="https://www.linkedin.com/in/leo-carrey/"><img src="assets/imgs/logos/linkedin.png" alt="Logo Linkedin" height="20"></a>
 
 
 ### **1.2** Contexte
